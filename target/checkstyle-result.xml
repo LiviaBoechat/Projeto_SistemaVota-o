@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.19">
+<file name="/home/livia/Documentos/projetos/java-028-java-projeto-sistema-de-votacao/src/main/java/com/betrybe/sistemadevotacao/Pessoa.java">
+<error line="5" severity="warning" message="&apos;CTOR_DEF&apos; deveria ser separado da instrução anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="8" severity="warning" message="&apos;METHOD_DEF&apos; deveria ser separado da instrução anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+</file>
+</checkstyle>
